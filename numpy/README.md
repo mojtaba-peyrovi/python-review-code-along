@@ -16,6 +16,7 @@ The code along is in this colab:
 
 https://colab.research.google.com/drive/13Max8oYEFW2rofDf-fimNkUPSSwqmdfE?usp=sharing
 
+[here]([https://numpy.org/doc/stable/reference/routines.linalg.html](https://numpy.org/doc/stable/reference/routines.linalg.html)) is a reference to linear algebra docs.
 
 
 
